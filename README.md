@@ -10,4 +10,7 @@
 
 
 ###
-感谢这套面试知识编撰着[sdmjhca](https://github.com/sdmjhca)
+感谢这套面试知识收集整理者[sdmjhca](https://github.com/sdmjhca)   
+
+###
+感谢面试知识导图中的相关知识连接的提供者和作者
