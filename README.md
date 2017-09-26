@@ -7,7 +7,7 @@
 
 `项目xmind为面试知识`
 
-![](https://github.com/PatientLiu/Java-interview-for-china/blob/master/java1%E6%8A%80%E6%9C%AF.png?raw=true)
+![](https://github.com/PatientLiu/Java-interview-for-china/blob/master/java%E6%8A%80%E6%9C%AF.png?raw=true)
 
 
 
